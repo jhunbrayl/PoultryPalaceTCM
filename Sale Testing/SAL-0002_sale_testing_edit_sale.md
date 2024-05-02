@@ -1,4 +1,4 @@
-## **INV-0002:** Inventory testing - Edit Chicken Stock
+## **SAL-0002:** Sale testing - Edit Sale
 
 > **Summary:** Verify that sales entry is modified and displayed successfully.  <br>
 
