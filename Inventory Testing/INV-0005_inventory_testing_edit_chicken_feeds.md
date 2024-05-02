@@ -1,4 +1,4 @@
-## **INV-0004:** Inventory testing - Edit Chicken Feeds
+## **INV-0005:** Inventory testing - Edit Chicken Feeds
 
 > **Summary:** Verify that chicken feeds is modified and displayed successfully.  <br>
 
