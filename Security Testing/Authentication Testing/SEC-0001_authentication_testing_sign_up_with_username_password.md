@@ -8,7 +8,7 @@ Scenario 1
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |    The user opens the application  | Verify that the Register Form is displayed on the screen   | 
+ |  1 |    The user opens the application  | Verify that the Register Form is displayed on the scree, with logo   | 
  |  2 |    The user enters their desired username and password.  | Verify that the input fields accepts the credentials   | 
  |  3 |    The user clicks the Let's Go button  | Verify that the button works and Log In form will be displayed   |  
 
