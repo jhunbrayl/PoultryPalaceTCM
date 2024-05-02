@@ -1,5 +1,6 @@
 # PoultryPalaceTCM
 Test Case Management Repository for JOYLISA Web
+## Test Cases
 
 * [Components Testing](Components%20Testing/)
   * [COMP-0001: Components testing - Inventory Form](Components%20Testing/COMP-0001_components_testing_inventory_form.md)
