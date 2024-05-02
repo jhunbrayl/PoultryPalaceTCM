@@ -12,4 +12,4 @@ Scenario 1
 
 **Post-conditions:**  
 
-* Entries are now being sorted onn the sales orders page
+* Entries are now being sorted onn the sales page
