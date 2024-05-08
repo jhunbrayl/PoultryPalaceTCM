@@ -2,7 +2,7 @@
 
 > **Summary:** Verifies that an error message is displayed when required fields are left empty.  <br>
 
-**Preconditions:** User is logged in and on the sale record page.
+**Preconditions:** User is logged in and on the add inventory page.
 
 Scenario 1
 
@@ -13,5 +13,5 @@ Scenario 1
 
 **Post-conditions:**
 
- - Sale is not recorded.
+ - Inventory item is not recorded.
  - Error message is displayed indicating that required fields are empty
