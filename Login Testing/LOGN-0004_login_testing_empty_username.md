@@ -1,4 +1,4 @@
-## **LOGIN-0004:** Login testing - Empty Username
+## **LOGN-0004:** Login testing - Empty Username
 
 > **Summary:** Verify that error message indicating empty username field.  <br>
 
