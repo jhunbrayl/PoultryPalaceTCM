@@ -2,6 +2,14 @@
 Test Case Management Repository for JOYLISA Web
 ## Test Cases
 
+* [Registration Testing](Registration%Testing)
+  * [REG-0001: Registration Testing - Valid Credentials](Registration%20Testing/REG-0001_registration_testing_valid_credentials.md)
+  * [REG-0002: Registration Testing - Invalid Username](Registration%20Testing/REG-0001_registration_testing_invalid_username.md)
+  * [REG-0003: Registration Testing - Invalid Password](Registration%20Testing/REG-0001_registration_testing_invalid_password.md)
+  * [REG-0004: Registration Testing - Empty Username](Registration%20Testing/REG-0001_registration_testing_empty_username.md)
+  * [REG-0005: Registration Testing - Empty Password](Registration%20Testing/REG-0001_registration_testing_empty_password.md)
+  * [REG-0006: Registration Testing - All Fields Empty](Registration%20Testing/REG-0001_registration_testing_all_fields_empty.md)
+    
 * [Components Testing](Components%20Testing/)
   * [COMP-0001: Components testing - Inventory Form](Components%20Testing/COMP-0001_components_testing_inventory_form.md)
   * [COMP-0002: Components testing - Sales Form](Components%20Testing/COMP-0002_components_testing_sales_form.md)
