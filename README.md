@@ -1,5 +1,5 @@
 # PoultryPalaceTCM
-Test Case Management Repository for JOYLISA Web
+Test Case Management Repository for JOYLISA Web. The system is designed to address the unique challenges faced by small-scale poultry farms in terms of inventory management, sales optimization, and regulatory compliance.
 ## Test Cases
 
 * [Registration Testing](Registration%20Testing)
