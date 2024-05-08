@@ -38,6 +38,7 @@ Test Case Management Repository for JOYLISA Web
   * [INV-0011: Inventory testing - Edit Stock Orders](Inventory%20Testing/INV-0011_inventory_testing_edit_stock_orders.md)
   * [INV-0012: Inventory testing - Delete Stock Orders](Inventory%20Testing/INV-0012_inventory_testing_delete_stock_orders.md)
   * [INV-0013: Inventory testing - Stock Orders Sort](Inventory%20Testing/INV-0013_inventory_testing_stock_orders_sort.md)
+  * [INV-0014: Inventory testing - Empty Fields](Inventory%20Testing/INV-0014_inventory_testing_empty_fields.md)
 
 * [Sale Testing](Sale%20Testing/)
   * [SAL-0001: Sale Testing - Add Sale](Sale%20Testing/SAL-0001_sale_testing_add_sale.md)
@@ -48,4 +49,5 @@ Test Case Management Repository for JOYLISA Web
   * [SAL-0006: Sale Testing - Edit Invoice](Sale%20Testing/SAL-0006_sale_testing_edit_invoice.md)
   * [SAL-0007: Sale Testing - Delete Invoice](Sale%20Testing/SAL-0007_sale_testing_delete_invoice.md)
   * [SAL-0008: Sale Testing - Sort Invoice](Sale%20Testing/SAL-0008_sale_testing_sort_invoice.md)
+  * [SAL-0009: Sale Testing - Empty Fields](Sale%20Testing/SAL-0009_sale_testing_empty_fields.md)
 
