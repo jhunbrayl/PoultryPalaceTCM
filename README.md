@@ -49,6 +49,3 @@ Test Case Management Repository for JOYLISA Web
   * [SAL-0007: Sale Testing - Delete Invoice](Sale%20Testing/SAL-0007_sale_testing_delete_invoice.md)
   * [SAL-0008: Sale Testing - Sort Invoice](Sale%20Testing/SAL-0008_sale_testing_sort_invoice.md)
 
-* [Security Testing](Security%20Testing/Authentication%20Testing/)
-  * [SEC-0001: Authentication testing - Sign Up with Username/Password](Security%20Testing/Authentication%20Testing/SEC-0001_authentication_testing_sign_up_with_username_password.md)
-  * [SEC-0002: Authentication testing - Log In with Username/Password](Security%20Testing/Authentication%20Testing/SEC-0002_authentication_testing_log_in_with_username_password.md)
