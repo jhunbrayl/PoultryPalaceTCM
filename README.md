@@ -23,6 +23,8 @@ Test Case Management Repository for JOYLISA Web. The system is designed to addre
   * [COMP-0001: Components testing - Inventory Form](Components%20Testing/COMP-0001_components_testing_inventory_form.md)
   * [COMP-0002: Components testing - Sales Form](Components%20Testing/COMP-0002_components_testing_sales_form.md)
   * [COMP-0003: Components testing - Notification Form](Components%20Testing/COMP-0003_components_testing_notification_form.md)
+  * [COMP-0004: Components testing - Reports Form](Components%20Testing/COMP-0004_components_testing_reports_form.md)
+  * [COMP-0005: Components testing - Verify Icons](Components%20Testing/COMP-0005_components_testing_verify_icons.md)
     
 * [Inventory Testing](Inventory%20Testing/)
   * [INV-0001: Inventory testing - Add Chicken Stock](Inventory%20Testing/INV-0001_inventory_testing_add_chicken_stock.md)
